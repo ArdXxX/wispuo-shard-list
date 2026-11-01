@@ -11,7 +11,7 @@
       "defaultShard": "",
       "relayUsesLoginHost": false,
       "website": "https://uo.com",
-      "notes": "Official servers, the first login server of the official Login.cfg (the client tries IP addresses, not the name: login.ultimaonline.com did not resolve through a SOCKS5 proxy). Same login on 75.2.70.184:7776, 13.248.219.129:7775 and :7776. The client version must be the official client's exact build; the session also sends what the official client sends on its own (time sync, assistant version, world-entry packets)."
+      "notes": "Official EA/OSI servers. The first login server from the official Login.cfg. Requires the exact official client build and official login protocol."
     },
     {
       "name": "Insane UO",
@@ -19,11 +19,145 @@
       "port": 2593,
       "kind": "Standard",
       "encrypt": false,
-      "clientVersion": "7.0.117.1",
+      "clientVersion": "7.0.24.0",
       "defaultShard": "",
       "relayUsesLoginHost": false,
       "website": "https://insaneuo.com/",
-      "notes": "Custom Free Shard"
+      "notes": "Free Shard - Modern UO focused on PvM/PvE, enhanced loot and rewards, faster spawns, quality-of-life improvements, Champion Spawns, Peerless bosses and consensual PvP."
+    },
+    {
+      "name": "UO Lost Lands",
+      "host": "login.uolostlands.com",
+      "port": 2593,
+      "kind": "Standard",
+      "clientVersion": "5.0.8.3",
+      "defaultShard": "",
+      "relayUsesLoginHost": false,
+      "website": "https://uolostlands.com/",
+      "notes": "Free Shard - Second Age (T2A) era recreation. OSI-inspired mechanics, Felucca-only unrestricted sandbox, classic PvP, PvM, roleplay, housing and community events."
+    },
+    {
+      "name": "UO Evolution",
+      "host": "play.uoevolution.com",
+      "port": 2593,
+      "kind": "Standard",
+      "clientVersion": "7.0.13.4",
+      "defaultShard": "",
+      "relayUsesLoginHost": false,
+      "website": "https://uoevolution.com/",
+      "notes": "Free Shard - Highly customized Ultima Online experience with extensive PvM content, custom maps, monsters, quests, crafting, events and regular content updates. Includes elements from multiple official expansions."
+    },
+    {
+      "name": "UOAlive",
+      "host": "login.uoalive.com",
+      "port": 2593,
+      "kind": "Standard",
+      "encrypt": false,
+      "clientVersion": "7.0.117.0",
+      "defaultShard": "",
+      "relayUsesLoginHost": false,
+      "website": "https://uoalive.com/",
+      "notes": "Free Shard - ModernUO PvE-focused shard with a friendly community and an emphasis on cooperative gameplay."
+    },
+    {
+      "name": "UOGamers",
+      "host": "login.uogamers.com",
+      "port": 2593,
+      "kind": "Standard",
+      "encrypt": true,
+      "clientVersion": "7.0.15.0",
+      "defaultShard": "",
+      "relayUsesLoginHost": false,
+      "website": "https://uogamers.com/",
+      "notes": "Free Shard - Renaissance-era gameplay with classic open-world PvP, faction warfare, tournaments, seasonal campaigns and quality-of-life improvements."
+    },
+    {
+      "name": "UO Renaissance",
+      "host": "login.uorenaissance.com",
+      "port": 2593,
+      "kind": "Standard",
+      "clientVersion": "5.0.8.3",
+      "defaultShard": "",
+      "relayUsesLoginHost": false,
+      "website": "https://www.uorenaissance.com/",
+      "notes": "Free Shard - Renaissance-era mechanics without Trammel. Immersive classic gameplay with challenging PvM, open-world PvP, crafting, factions and a player-driven economy."
+    },
+    {
+      "name": "UORPG",
+      "host": "login.uORPG.com",
+      "port": 2593,
+      "kind": "Standard",
+      "clientVersion": "7.0.23.1",
+      "defaultShard": "",
+      "relayUsesLoginHost": false,
+      "website": "https://uORPG.com/",
+      "notes": "Free Shard - Ultima Online roleplaying experience. Client version supplied by user."
+    },
+    {
+      "name": "Beyond Sosaria",
+      "host": "beyondsosaria.com",
+      "port": 2593,
+      "kind": "Standard",
+      "clientVersion": "7.0.117.1",
+      "defaultShard": "",
+      "relayUsesLoginHost": false,
+      "website": "https://beyondsosaria.com/",
+      "notes": "Free Shard - Custom Ultima Online world focused on exploration, adventure and community gameplay."
+    },
+    {
+      "name": "UO Eventine",
+      "host": "login.uoeventine.com",
+      "port": 2593,
+      "kind": "Standard",
+      "clientVersion": "7.0.98.1",
+      "defaultShard": "",
+      "relayUsesLoginHost": false,
+      "website": "https://uoeventine.com/",
+      "notes": "Free Shard - Ultima Online custom shard. Client version supplied by user."
+    },
+    {
+      "name": "UO Excelsior",
+      "host": "login.uoexcelsior.com",
+      "port": 2593,
+      "kind": "Standard",
+      "clientVersion": "5.0.9.12",
+      "defaultShard": "",
+      "relayUsesLoginHost": false,
+      "website": "https://uoexcelsior.com/",
+      "notes": "Free Shard - Custom Ultima Online gameplay with PvM and PvP, custom maps, T2A-inspired elements and no skill cap."
+    },
+    {
+      "name": "UO Forever",
+      "host": "login.uoforever.com",
+      "port": 2593,
+      "kind": "Standard",
+      "clientVersion": "7.0.45.0",
+      "defaultShard": "",
+      "relayUsesLoginHost": false,
+      "website": "https://uoforever.com/",
+      "notes": "Free Shard - Classic Ultima Online-inspired world with custom content, open-world PvP, PvM, player housing and a player-driven economy."
+    },
+    {
+      "name": "UOG Demise",
+      "host": "login.uogdemise.com",
+      "port": 2593,
+      "kind": "Standard",
+      "clientVersion": "7.0.117.33",
+      "defaultShard": "",
+      "relayUsesLoginHost": false,
+      "website": "https://uogdemise.com/",
+      "notes": "Free Shard - Mondain's Legacy-inspired gameplay with classic PvP, Doom, crafting, Peerless encounters, PvM and community events."
+    },
+    {
+      "name": "Inceptum",
+      "host": "login.osistyle.com",
+      "port": 2593,
+      "kind": "Standard",
+      "clientVersion": "7.0.18.0",
+      "defaultShard": "",
+      "relayUsesLoginHost": false,
+      "website": "https://uogames.org/",
+      "notes": "Free Shard - OSI-style Ultima Online experience. Host, port and client version supplied by user."
     }
   ]
 }
