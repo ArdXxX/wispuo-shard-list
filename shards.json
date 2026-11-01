@@ -1,0 +1,15 @@
+{
+  "format": 1,
+  "shards": [
+    {
+      "name": "Ultima Online (official, EA/OSI)",
+      "host": "75.2.70.184",
+      "port": 7775,
+      "kind": "Official",
+      "encrypt": true,
+      "clientVersion": "7.0.117.33",
+      "website": "https://uo.com",
+      "notes": "Official servers, the first login server of the official Login.cfg (the client tries IP addresses, not the name: login.ultimaonline.com did not resolve through a SOCKS5 proxy). Same login on 75.2.70.184:7776, 13.248.219.129:7775 and :7776. The client version must be the official client's exact build; the session also sends what the official client sends on its own (time sync, assistant version, world-entry packets)."
+    }
+  ]
+}
