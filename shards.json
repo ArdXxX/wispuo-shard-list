@@ -184,7 +184,7 @@
     },   
     {
       "name": "Mercsville UO",
-      "host": "169.254.165.169",
+      "host": "146.135.0.71",
       "port": 2593,
       "kind": "Standard",
       "clientVersion": "7.0.117.33",
