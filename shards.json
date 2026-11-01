@@ -169,6 +169,17 @@
       "relayUsesLoginHost": false,
       "website": "https://arthfreeserver.com/",
       "notes": "Free Shard - Custom Shard."
+    },   
+    {
+      "name": "Mercsville UO",
+      "host": "169.254.165.169",
+      "port": 2593,
+      "kind": "Standard",
+      "clientVersion": "7.0.117.33",
+      "defaultShard": "",
+      "relayUsesLoginHost": false,
+      "website": "https://discord.gg/gWYjuCeMFU",
+      "notes": "Free Shard - Custom Shard."
     }
   ]
 }
