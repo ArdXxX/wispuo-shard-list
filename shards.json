@@ -157,7 +157,18 @@
       "defaultShard": "",
       "relayUsesLoginHost": false,
       "website": "https://uogames.org/",
-      "notes": "Free Shard - OSI-style Ultima Online experience. Host, port and client version supplied by user."
+      "notes": "Free Shard - OSI-style Ultima Online experience."
+    },   
+    {
+      "name": "Arth",
+      "host": "login.arthfreeserver.com",
+      "port": 2593,
+      "kind": "Standard",
+      "clientVersion": "7.0.117.33",
+      "defaultShard": "",
+      "relayUsesLoginHost": false,
+      "website": "https://arthfreeserver.com/",
+      "notes": "Free Shard - Custom Shard."
     }
   ]
 }
