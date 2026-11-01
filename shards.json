@@ -14,6 +14,18 @@
       "notes": "Official EA/OSI servers. The first login server from the official Login.cfg. Requires the exact official client build and official login protocol."
     },
     {
+      "name": "LegioN UO",
+      "host": "162.19.255.227",
+      "port": 2593,
+      "kind": "Standard",
+      "encrypt": false,
+      "clientVersion": "6.0.4.0",
+      "defaultShard": "",
+      "relayUsesLoginHost": false,
+      "website": "https://legionuo.com/",
+      "notes": "Free Shard - APK Style level shard - PVP - Full loot"
+    },
+    {
       "name": "Insane UO",
       "host": "play.insaneuo.com",
       "port": 2593,
