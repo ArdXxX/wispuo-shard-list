@@ -192,6 +192,17 @@
       "relayUsesLoginHost": false,
       "website": "https://discord.gg/gWYjuCeMFU",
       "notes": "Free Shard - Custom Shard."
+    },
+    {
+      "name": "UO Outlands",
+      "host": "login.uooutlands.com",
+      "port": 443,
+      "kind": "Outlands",
+      "encrypt": true,
+      "clientVersion": "7.0.15",
+      "defaultShard": "UO Outlands",
+      "website": "https://uooutlands.com",
+      "notes": "Outlands: HTTP login and custom shard protocol."
     }
   ]
 }
