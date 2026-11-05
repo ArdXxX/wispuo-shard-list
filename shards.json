@@ -198,11 +198,13 @@
       "host": "login.uooutlands.com",
       "port": 443,
       "kind": "Outlands",
-      "encrypt": true,
+      "encrypt": false,
       "clientVersion": "7.0.15",
+      "outlandsBuild": 579,
+      "outlandsGameFilesVersion": 23,
       "defaultShard": "UO Outlands",
       "website": "https://uooutlands.com",
-      "notes": "Outlands: HTTP login and custom shard protocol."
+      "notes": "Outlands: the account list, server list and game authorization come from the shard's HTTPS login (login.uooutlands.com:443). The profile stores its own device UUID; WispUO checks the HTTP login, but the shard's custom game stream is not implemented yet."
     }
   ]
 }
