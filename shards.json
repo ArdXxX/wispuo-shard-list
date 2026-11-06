@@ -204,7 +204,7 @@
       "outlandsGameFilesVersion": 23,
       "defaultShard": "UO Outlands",
       "website": "https://uooutlands.com",
-      "notes": "Outlands: the account list, server list and game authorization come from the shard's HTTPS login (login.uooutlands.com:443). The profile stores its own device UUID; WispUO checks the HTTP login, but the shard's custom game stream is not implemented yet."
+      "notes": "Outlands - Custom Shard"
     }
   ]
 }
