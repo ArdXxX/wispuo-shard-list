@@ -205,6 +205,16 @@
       "defaultShard": "UO Outlands",
       "website": "https://uooutlands.com",
       "notes": "Outlands - Custom Shard"
+    },
+    {
+      "name": "Age of Shadows",
+      "host": "websocket.ageofshadows.gg",
+      "port": 8080,
+      "kind": "AoS",
+      "encrypt": false,
+      "clientVersion": "7.0.50.0",
+      "website": "https://ageofshadows.gg",
+      "notes": "Age Of Shadows - Custom Shard"
     }
   ]
 }
