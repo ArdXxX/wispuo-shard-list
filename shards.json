@@ -197,7 +197,7 @@
       "name": "Age of Shadows",
       "host": "websocket.ageofshadows.gg",
       "port": 8080,
-      "kind": "AoS",
+      "kind": "AgeOfShadows",
       "clientVersion": "7.0.50.0",
       "defaultShard": "",
       "relayUsesLoginHost": false,
