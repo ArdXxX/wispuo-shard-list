@@ -216,6 +216,18 @@
       "defaultShard": "UO Outlands",
       "website": "https://uooutlands.com",
       "notes": "Outlands - Custom Shard"
-    }
+    },
+     {
+      "name": "Perilous Legends",
+      "host": "play.perilouslegends.com",
+      "port": 2593,
+      "kind": "PerilousLegends",
+      "encrypt": false,
+      "clientVersion": "7.0.79.6",
+      "defaultShard": "",
+      "relayUsesLoginHost": false,
+      "website": "https://perilouslegends.com",
+      "notes": "Custom shard."
+    }    
   ]
 }
